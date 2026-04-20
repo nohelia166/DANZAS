@@ -1,0 +1,80 @@
+
+<html >
+<head>
+<meta charset="UTF-8">
+<title>Danzas de Chiapas</title>
+<link href="estilosdema.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div class="contenido">
+
+  <div class="caja1"> 
+    <h1>Danzas Tradicionales de Chiapas</h1>
+    <h2>Celebrando la Cultura y Tradición</h2>
+  </div>
+
+  <div class="imagenes">
+    <img src="CHIAPANECAS.JPEG">
+    <img src="parachicos.JPEG">
+    <img src="CHIAPANECAS.JPEG">
+  </div>
+
+  <div class="video">
+    <video src="VIDEO1.mp4" controls></video>
+  </div>
+
+  <div class="info">
+    <ul>
+      <li><a href="PARACHICOS.HTML">Danza de los Parachicos</a></li>
+      <li><a href="VENADO.HTML">Danza de los Venados</a></li>
+      <li><a href="CHIAPANECA.HTML">Danza de las Chiapanecas</a></li>
+    </ul>
+
+    <p>
+      Las danzas de Chiapas son parte importante de la cultura del estado.
+      Cada danza representa historia, religión y costumbres de los pueblos chiapanecos.
+      Estas tradiciones se han transmitido de generación en generación.
+    </p>
+  </div>
+
+  <!-- TABLA -->
+  <div class="tabla">
+    <table>
+
+      <tr>
+        <th>Danza</th>
+        <th>Lugar de origen</th>
+        <th>Vestimenta</th>
+        <th>Significado</th>
+      </tr>
+
+      <tr>
+        <td>Parachicos</td>
+        <td>Chiapas de Corzo</td>
+        <td>Máscaras de madera, sarape y sonajas</td>
+        <td>Celebración en honor a San Sebastián con influencia indígena y española</td>
+      </tr>
+
+      <tr>
+        <td>Venado</td>
+        <td>Regiones indígenas</td>
+        <td>Traje con cabeza de venado y elementos naturales</td>
+        <td>Representa la caza del venado y la conexión con la naturaleza</td>
+      </tr>
+
+      <tr>
+        <td>Chiapanecas</td>
+        <td>Chiapas</td>
+        <td>Vestido negro bordado con flores de colores</td>
+        <td>Refleja la elegancia, cultura y tradiciones del estado</td>
+      </tr>
+
+    </table>
+  </div>
+
+</div>
+
+</body>
+</html>
